@@ -1,0 +1,9 @@
+# For Spring Boot
+/target/
+/logs/
+*.log
+*.jar
+
+# For React
+/frontend/node_modules/
+/frontend/build/
